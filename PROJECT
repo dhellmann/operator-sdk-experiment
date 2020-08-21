@@ -1,0 +1,6 @@
+layout: go.kubebuilder.io/v2
+projectName: operator-sdk-experiment
+repo: github.com/dhellmann/operator-sdk-experiment
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
