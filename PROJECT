@@ -1,4 +1,5 @@
 layout: go.kubebuilder.io/v2
+multigroup: true
 projectName: operator-sdk-experiment
 repo: github.com/dhellmann/operator-sdk-experiment
 version: 3-alpha
